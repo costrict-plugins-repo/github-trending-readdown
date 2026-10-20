@@ -1,0 +1,6 @@
+{
+  "readdown": {
+    "command": "npx",
+    "args": ["-y", "github:zcag/readdown-mcp"]
+  }
+}

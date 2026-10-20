@@ -1,0 +1,7 @@
+{
+  "name": "readdown",
+  "description": "Fetch web pages and convert HTML to clean, LLM-optimized Markdown. Extracts article content, strips boilerplate, estimates token count. No browser needed.",
+  "author": {
+    "name": "zcag"
+  }
+}
